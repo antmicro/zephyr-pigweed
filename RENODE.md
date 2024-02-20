@@ -156,6 +156,20 @@ Or you can use [Perfetto](https://ui.perfetto.dev/):
 * [Renode U-Boot Dashboard](https://u-boot-dashboard.renode.io/)
 * [Antmicro blog](https://antmicro.com/blog/)
 
+Additional resources:
+
+* [Blog: Fully deterministic Linux + Zephyr/micro-ROS testing in Renode](https://antmicro.com/blog/2022/07/fully-deterministic-linux-zephyr-micro-ros-testing-in-renode/)
+* [Docs on execution tracing](https://renode.readthedocs.io/en/latest/advanced/execution-tracing.html)
+* [Docs on GDB integration](https://renode.readthedocs.io/en/latest/debugging/gdb.html)
+* [cros-platform-ec-tester repository](https://github.com/antmicro/cros-platform-ec-tester/)
+* [Blog: ChromiumOS EC testing suite in Renode for consumer-grade products](https://antmicro.com/blog/2023/06/chromiumos-ec-testing-suite-in-renode-for-consumer-grade-products/)
+* [Blog: Extending the ChromiumOS fingerprint module test suite with initial Nuvoton NPCX9 support in Renode](https://antmicro.com/blog/2024/02/initial-nuvoton-npcx9-support-in-renode/)
+* [Blog: Enabling secure open source ML products with Open Se Cura](https://antmicro.com/blog/2023/11/secure-open-source-ml-with-open-se-cura/)
+* [Blog: Demystifying software - different methods of execution tracing with Renode](https://antmicro.com/blog/2022/09/execution-tracing-in-renode/)
+* [TFLite Micro example in Renodepedia](https://renodepedia.renode.io/boards/frdm_k22f/?view=software&demo=tensorflow_lite_micro)
+* [renode-board-visualisation repository](https://github.com/antmicro/renode-board-visualization)
+* [tensorflow-zephyr-vexriscv-examples](https://github.com/antmicro/tensorflow-zephyr-vexriscv-examples)
+
 ## Reach out
 
 If you have questions and would like to learn more how Renode can help you with your project, reach out at [contact@antmicro.com](mailto:contact@antmicro.com)!
